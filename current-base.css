@@ -144,17 +144,17 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.current-base-navlink1 {
+.current-base-navlink01 {
   color: #ffffff;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.current-base-navlink2 {
+.current-base-navlink02 {
   color: #ffffff;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.current-base-navlink3 {
+.current-base-navlink03 {
   color: #ffffff;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: none;
@@ -331,11 +331,20 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.current-base-navlink04 {
+  display: contents;
+}
 .current-base-component1 {
   text-decoration: none;
 }
+.current-base-navlink05 {
+  display: contents;
+}
 .current-base-component2 {
   text-decoration: none;
+}
+.current-base-navlink06 {
+  display: contents;
 }
 .current-base-component3 {
   text-decoration: none;
@@ -391,19 +400,19 @@
   margin-left: 100px;
   flex-direction: column;
 }
-.current-base-navlink4 {
+.current-base-navlink07 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.current-base-navlink5 {
+.current-base-navlink08 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.current-base-navlink6 {
+.current-base-navlink09 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.current-base-navlink7 {
+.current-base-navlink10 {
   text-decoration: none;
 }
 .current-base-follow-container1 {
@@ -456,15 +465,15 @@
   .current-base-logo {
     color: #ffffff;
   }
-  .current-base-navlink1 {
+  .current-base-navlink01 {
     fill: var(--dl-color-primary-700);
     color: var(--dl-color-primary-700);
   }
-  .current-base-navlink2 {
+  .current-base-navlink02 {
     fill: var(--dl-color-primary-700);
     color: var(--dl-color-primary-700);
   }
-  .current-base-navlink3 {
+  .current-base-navlink03 {
     fill: var(--dl-color-primary-700);
     color: var(--dl-color-primary-700);
   }
@@ -590,16 +599,16 @@
     align-items: flex-start;
     margin-left: 50px;
   }
-  .current-base-navlink4 {
+  .current-base-navlink07 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .current-base-navlink5 {
+  .current-base-navlink08 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .current-base-navlink6 {
+  .current-base-navlink09 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .current-base-navlink7 {
+  .current-base-navlink10 {
     margin-bottom: var(--dl-space-space-halfunit);
   }
   .current-base-follow-container1 {
